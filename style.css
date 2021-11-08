@@ -1,7 +1,7 @@
 
 nav {
    
-    font-family: 'Space Mono', monospace;
+    font-family: 'Space Mono'; monospace;
     font-size: 20px;
     font-weight: bold;
     text-align: Left;
@@ -22,8 +22,7 @@ body {
     color: #cfcfcf
   }
   
-   .header {
-    padding: 30px;
+   .header {;
     font-size: 40px;
     text-align: center;
     background: white;
@@ -71,3 +70,9 @@ img {
     font-family: 'Space Mono', monospace;
     font-size: 16px;
 }
+
+a:link, a:visited{
+    color:rgb(250, 0, 21);
+    font-size: 150%;
+    }
+
